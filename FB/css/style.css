@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+*{padding: 0 ;margin: 0; }
+
+header
+{
+	float: left;
+	width: 100%; 
+	background-color: #3b5998;
+	padding:15px 0 ;
+}
+.container
+{
+	width: 1176px;
+	margin: 0 auto;
+}
+.main-details {float: right; width: 50%}
+
+.details {width: 26%; float: left;padding: 0 20px; color: white;font-family: Helvetica, Arial, sans-serif; font-size: small;}
+.details button {margin: 13px 0 0 0; padding: 3px 6px;background-color: #4267b2;color: white;border:1px solid #29487d; ;}
+.width-50 {float: left;width: 50%;}
+
+section {background-color: #D3D8E8;     float: left;
+    width: 100%;}
+.fac-content {padding: 40px;}
+.fac-content h3 {color:#0e385f; font-size: 20px; font-weight: bold; font-family: Helvetica, Arial, sans-serif; }
+.form {color: #1d2129; padding: 40px; width: 80%; margin: 0 auto}
+.form h2 {font-size: 36px; font-family: Helvetica, Arial, sans-serif; margin: 10px 0;}
+.input{margin: 5px 0; float:left;width: 100%; padding: 8px; border-radius: 5px; border: 1px solid black;  box-sizing: border-box;font-size: 1.1em}
+
+.input.Mobile
+{
+	 margin: 1px 0 0 0;
+}
+
+
+.half {width: 48% }
+.right {float: right;}
+.clear {clear: both;}
+.birth {size: 16px; margin: 10px 0 0 0;font-family: Helvetica, Arial, sans-serif; width: 40%}
+.gender{font-family: Helvetica, Arial, sans-serif; width: 20%; float: left; margin: 10px 0 10px 0;  }
+.policy {font-size: small;width: 100%; float: left;margin: 10px 0 0 0 }
+.declaration {font-size: small; float: right; }
+
+.signup {    float: left;margin: 20px 0;background: #62a550;color: white;font-family: Helvetica, Arial, sans-serif;padding: 7px 20px;
+    border-radius: 5px;text-decoration: none;font-weight: bold; width: 100px;text-align: center}
+.create-page{font-family: Helvetica, Arial, sans-serif;font-weight: bold;width: 45%; margin: 10px 0 10px 20px}
+.footer p {font-size: 12px;float: left;width: 50%; margin: 5px 0 0 5px; }
+ .footer p button {width: 30px; font-size: 15px; font-weight: bolder; color: grey}
+
+h1
+{
+	font-weight: bolder;
+	font-size: 30px; 
+	font-family: 'Montserrat', sans-serif; 
+    /*background-image: linear-gradient(#4e69a2, #3b5998 50%);*/
+    /*border-bottom: 1px solid #133783;*/
+    color: white;  
+    float: left;
+}
